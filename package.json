@@ -2,16 +2,13 @@
   "name": "ntamabuka",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://ephron99.github.io/Ntamupaka-F-W",
   "type": "module",
 "scripts": {
   "dev": "vite",
   "build": "vite build",
   "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
   "preview": "vite preview",
-  "start": "react-scripts start",
-  "deploy": "gh-pages -d build",
-  "predeploy": "npm run build"
+  "start": "react-scripts start"
 },
 
   "dependencies": {

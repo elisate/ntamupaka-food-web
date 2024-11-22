@@ -12,7 +12,7 @@ function Footer() {
       <div className="text-xl md:text-2xl text-white font-semibold mb-4 md:mb-6">
         TOGETHER WE SHAPE YOUR FUTURE
       </div>
-      <hr className="border-none h-[1px] bg-[#2d2c2c] mb-4 md:mb-6" />
+      <hr className="border-none h-[1px] bg-[#225357] mb-4 md:mb-6" />
 
       <div className="flex flex-col md:flex-row md:justify-between py-4 md:py-6">
         {/* Find Us */}
@@ -70,7 +70,7 @@ function Footer() {
           </div>
         </div>
       </div>
-      <hr className="border-none h-[1px] bg-[#2d2c2c] mb-4 md:mb-6" />
+      <hr className="border-none h-[1px]  bg-[#225357] mb-4 md:mb-6" />
 
       <div className="text-center text-base md:text-lg text-[#b3b3b3]">
         &copy; 2024 NTAMUPAKA FOOD WEB. All rights reserved

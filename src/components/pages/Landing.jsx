@@ -1,12 +1,12 @@
 import React from "react";
 
 // Services and Projects data with imported images
-import product1 from "../asset/product1.jpg";
-import product2 from "../asset/product2.jpg";
-import bg from "../asset/final1.jpg";
-import p from "../asset/price.jpg";
-import d from "../asset/disti.jpg";
-import q from "../asset/quality.jpeg";
+import product1 from "../assets/product1.jpg";
+import product2 from "../assets/product2.jpg";
+import bg from "../assets/final1.jpg";
+import p from "../assets/price.jpg";
+import d from "../assets/disti.jpg";
+import q from "../assets/quality.jpeg";
 import { FaSeedling, FaHandsHelping, FaCogs } from "react-icons/fa";
 import { FaBullhorn, FaGlobeAmericas } from "react-icons/fa";
 import Writer from "./Writer";

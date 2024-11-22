@@ -10,7 +10,7 @@ function Navbar() {
   };
 
   return (
-    <nav className="bg-white shadow-md w-full">
+    <nav className="bg-white shadow-md w-full fixed">
       <div className="flex items-center justify-between px-6 py-4 md:px-16">
         {/* Logo */}
         <div>
